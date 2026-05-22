@@ -45,6 +45,7 @@ Create a `.env.local` file in the project root:
 
 # env
 OPENWEATHER_API_KEY=your_openweather_api_key
+to setup openweather api key go to https://openweathermap.org/ sigin open profile and select my api key. generate an api key and paste it in .env file
 
 
 ## Getting Started
